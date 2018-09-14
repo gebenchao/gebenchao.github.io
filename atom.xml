@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://katsu.cf/"/>
   <updated>2018-09-13T00:50:10.159Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://katsu.cf/</id>
   
   <author>
     <name>katsu.hc</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/09/13/hello-world/"/>
-    <id>http://yoursite.com/2018/09/13/hello-world/</id>
+    <link href="https://katsu.cf/2018/09/13/hello-world/"/>
+    <id>https://katsu.cf/2018/09/13/hello-world/</id>
     <published>2018-09-13T00:50:10.159Z</published>
     <updated>2018-09-13T00:50:10.159Z</updated>
     
