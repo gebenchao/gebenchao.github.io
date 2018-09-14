@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-
-    
     
   <url>
-    <loc>https://katsu.cf/2018/09/13/hello-world/</loc>
+    <loc>https://katsu.cf/</loc>
     <lastmod>2018-09-13T00:50:10.159Z</lastmod>
     <data>
         <display>
@@ -13,7 +11,6 @@
         <pubTime>2018-09-13T00:50:10.159Z</pubTime>
         
          
-           
         </display>
     </data>
     </url>
