@@ -1850,7 +1850,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffb6ff;
+  background: #d5ff86;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3090,6 +3090,17 @@ code {
   color: #e6006b;
   background: #fff;
   border-radius: 3px;
+}
+body {
+  background: url("/images/blogbk.jpg") no-repeat;
+/* 背景图垂直、水平均居中 */
+  background-position: left left;
+/* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 */
+  background-attachment: fixed;
+/* 让背景图基于容器大小伸缩 */
+  background-size: cover;
+/* 设置背景颜色，背景图加载过程中会显示背景色 */
+  background-color: #000;
 }
 .site-nav-toggle {
   top: 0;
