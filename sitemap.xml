@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://katsu.cf/404.html</loc>
+    <loc>https://katsu.cf/2018/09/18/%E8%85%BE%E8%AE%AF%E5%85%AC%E7%9B%8A-404-%E9%A1%B5%E9%9D%A2%E4%BB%8B%E7%BB%8D%E5%92%8C%E4%BB%A3%E7%A0%81%E4%BD%BF%E7%94%A8/</loc>
     
-    <lastmod>2018-09-18T04:59:57.461Z</lastmod>
+    <lastmod>2018-09-18T05:11:59.163Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://katsu.cf/tags/index.html</loc>
+    
+    <lastmod>2018-09-18T05:11:41.452Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>https://katsu.cf/categories/index.html</loc>
     
     <lastmod>2018-09-18T04:40:17.491Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://katsu.cf/2018/09/18/%E8%85%BE%E8%AE%AF%E5%85%AC%E7%9B%8A-404-%E9%A1%B5%E9%9D%A2%E4%BB%8B%E7%BB%8D%E5%92%8C%E4%BB%A3%E7%A0%81%E4%BD%BF%E7%94%A8/</loc>
-    
-    <lastmod>2018-09-18T04:29:56.626Z</lastmod>
     
   </url>
   
